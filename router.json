@@ -1,0 +1,12 @@
+{
+  "processNames": ["MuMuNxDevice"],
+  "hostProcessNames": ["MuMuNxMain", "MuMuNxDevice"],
+  "muteWhenNoInstanceFocused": true,
+  "singleInstanceFollow": true,
+  "exitWithMuMu": true,
+  "exitDelaySeconds": 6,
+  "pollMs": 100,
+  "debounceMs": 250,
+  "reconcileMs": 2000,
+  "idlePollMs": 1000
+}
